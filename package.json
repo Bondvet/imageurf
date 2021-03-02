@@ -18,11 +18,10 @@
   "author": "David Dillkötter",
   "license": "MIT",
   "dependencies": {
-    "@bondvet/eslint-config-typescript": "^1.1.1",
     "pngjs": "^3.3.0"
   },
   "devDependencies": {
-    "@bondvet/eslint-config": "^1.1.0",
+    "@bondvet/eslint-config-typescript": "^1.1.1",
     "@bondvet/prettier-config": "^1.1.0",
     "@types/node": "^14.14.31",
     "@types/pngjs": "^3.4.2",

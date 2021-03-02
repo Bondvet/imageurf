@@ -1,0 +1,9 @@
+{
+  "root": true,
+  "extends": ["@bondvet/eslint-config-typescript"],
+  "rules": {
+    "no-plusplus": "off",
+    "prefer-destructuring": "off",
+    "no-bitwise": "off"
+  }
+}

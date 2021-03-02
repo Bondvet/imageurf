@@ -1,12 +1,13 @@
-imageurf
+@bondvet/imageurf
 ========
 
 Encode or Decode urf data to build a AirPrint server or send pictures to AirPrint compatible printers.
+Based on [DkDavid/imageurf](https://github.com/DkDavid/imageurf).
 
 Installation
 ===============
 ```
-$ npm install imageurf  --save
+$ npm install @bondvet/imageurf  --save
 ```
 
 Example
